@@ -1,0 +1,10 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+#hero_sec{
+    display: flex !important;
+    justify-content: center !important;
+    }
+
